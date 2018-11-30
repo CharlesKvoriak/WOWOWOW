@@ -1,0 +1,100 @@
+body {
+    background-color:black;
+}
+
+img{
+    display:block;
+    margin-right:auto;
+    margin-left:auto;    
+}
+
+#trophy{
+    width:100%;
+    text-align:center;
+}
+
+#firsthead{
+    color:white;
+    text-align:center;
+    text-decoration:underline;
+}
+
+#firsthead{
+    color:white;
+    text-align:Center;
+    text-decoration:underline;
+}
+
+.category{
+    color:white;
+    text-align:center;
+    text-decoration:underline;
+}
+
+#spelunky{
+    width:100%;
+    text-align:center;
+}
+
+.desc{
+    color:white;
+    text-align:center;
+}
+
+#lob{
+    width: 50%;
+}
+
+h2{
+    font-family: 'Bangers', cursive;    
+}
+
+p{
+    font-family: 'Oswald', sans-serif;    
+}
+
+h1{
+    font-family: 'Monoton', cursive;
+    font-size:40px;
+}
+
+#spelunkydiv{
+    margin-top:20px;
+    background-color:red;
+    border-style: solid;
+    border-color:#cfcfcf;
+    border-radius:5px;
+    margin-bottom:20px;
+}
+
+#lobdiv{
+    margin-top:20px;
+    background-color:#c13300;
+    border-style: solid;
+    border-color:#cfcfcf;
+    border-radius:5px;
+}
+
+#bobsburgersdiv{
+    margin-top:20px;
+    background-color:#5dad32;
+    border-style: solid;
+    border-color:#cfcfcf;
+    border-radius:5px;
+}
+
+#hadrondiv{
+    margin-top:20px;
+    background-color:#111f6d;
+    border-style: solid;
+    border-color:#cfcfcf;
+    border-radius:5px;
+}
+
+#hadronlink{
+    color:#e6f700;
+}
+
+#hadronlink:hover{
+    color:white;
+}
