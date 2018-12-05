@@ -1,5 +1,5 @@
 body {
-    background-color:black;
+    background-image:url('https://www.publicdomainpictures.net/pictures/200000/nahled/tile-pattern-background-black.jpg');
 }
 
 img{
@@ -9,19 +9,15 @@ img{
 }
 
 #trophy{
-    width:100%;
-    text-align:center;
+    width:80%;
+    display: block;
+    margin: 0 auto;
+    border:solid #cccccc 5px;
 }
 
 #firsthead{
     color:white;
     text-align:center;
-    text-decoration:underline;
-}
-
-#firsthead{
-    color:white;
-    text-align:Center;
     text-decoration:underline;
 }
 
@@ -32,7 +28,7 @@ img{
 }
 
 #spelunky{
-    width:100%;
+    width:90%;
     text-align:center;
 }
 
@@ -56,6 +52,7 @@ p{
 h1{
     font-family: 'Monoton', cursive;
     font-size:40px;
+    text-shadow:0px 0px 50px;
 }
 
 .catwrapper{
