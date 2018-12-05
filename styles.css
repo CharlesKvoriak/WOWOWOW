@@ -58,37 +58,28 @@ h1{
     font-size:40px;
 }
 
-#spelunkydiv{
+.catwrapper{
     margin-top:20px;
-    background-color:red;
     border-style: solid;
     border-color:#cfcfcf;
     border-radius:5px;
-    margin-bottom:20px;
+    margin-bottom:20px;    
+}
+
+#spelunkydiv{
+    background-color:red;
 }
 
 #lobdiv{
-    margin-top:20px;
     background-color:#c13300;
-    border-style: solid;
-    border-color:#cfcfcf;
-    border-radius:5px;
 }
 
 #bobsburgersdiv{
-    margin-top:20px;
     background-color:#5dad32;
-    border-style: solid;
-    border-color:#cfcfcf;
-    border-radius:5px;
 }
 
 #hadrondiv{
-    margin-top:20px;
     background-color:#111f6d;
-    border-style: solid;
-    border-color:#cfcfcf;
-    border-radius:5px;
 }
 
 #hadronlink{
@@ -97,4 +88,8 @@ h1{
 
 #hadronlink:hover{
     color:white;
+}
+
+#hadron{
+    width:75%;
 }
